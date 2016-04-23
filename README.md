@@ -59,3 +59,7 @@ And you will see:
 The detail of cert:
 
 ![](http://ww4.sinaimg.cn/large/6c0378f8gw1f373mf9bpfj20qw0u6n3d.jpg)
+
+## LICENSE
+
+MIT.
